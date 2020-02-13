@@ -78,7 +78,6 @@ yarn install
 * [nodemailer](https://nodemailer.com/about/)
 * [moment](https://momentjs.com/)
 * [cloudinary](https://cloudinary.com/)
-* [geocoder](https://github.com/wyattdanger/geocoder#geocoder)
 * [connect-flash](https://github.com/jaredhanson/connect-flash#connect-flash)
 
 ### Platforms
